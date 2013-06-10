@@ -40,7 +40,8 @@
     <center>
         <p><h2><a href="https://github.com/elmagwi/gnome"> GIT HUB </a></h2></p>            
     <h1><a href="https://github.com/elmagwi/gnome/blob/master/web/gnome_magwi.pdf">PDF GNOME / github</a></h1>
-    <h3><a href="https://docs.google.com/file/d/0B2pV6b_dNcVhanZ1Ym9kVTgwbWc/edit?usp=sharing">PDF GNOME / Google Drive</a></h3>
+    <h3><a href="https://docs.google.com/file/d/0B2pV6b_dNcVhanZ1Ym9kVTgwbWc/edit?usp=sharing">PDF GNOME / Google Drive / Diapositiva</a></h3>
+    <h3><a href="Mongrafia.pdf">PDF GNOME / Monografia</a></h3>
     </center>    
     <center>
         <br/>
