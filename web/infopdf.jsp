@@ -38,9 +38,17 @@
     </head>
     <body style="-webkit-transition: -webkit-transform 0.8s ease; transition: -webkit-transform 0.8s ease;">
     <center>
+        <p><h2><a href="https://github.com/elmagwi/gnome"> GIT HUB </a></h2></p>            
+    <h1><a href="https://github.com/elmagwi/gnome/blob/master/web/gnome_magwi.pdf">PDF GNOME / github</a></h1>
+    <h3><a href="https://docs.google.com/file/d/0B2pV6b_dNcVhanZ1Ym9kVTgwbWc/edit?usp=sharing">PDF GNOME / Google Drive</a></h3>
+    </center>    
+    <center>
         <br/>
         <br/>
-        <iframe name="content" height="550" width="1000" style="border:none" src="gnome_magwi.pdf"/>
+        <iframe name="content" height="450" width="800" style="border:none" src="gnome_magwi.pdf"/></P>
+    
     </center>
+    
+    
     </body>
 </html>
